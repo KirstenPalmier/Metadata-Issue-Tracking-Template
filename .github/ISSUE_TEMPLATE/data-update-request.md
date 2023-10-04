@@ -1,12 +1,3 @@
----
-name: Data Update Request
-about: Help track who, when, and why changes are made where
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ## Data Update Request <PROJECT> <DATE>
 
 ### General Info
