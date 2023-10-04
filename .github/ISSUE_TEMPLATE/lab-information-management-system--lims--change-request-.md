@@ -1,12 +1,3 @@
----
-name: 'Lab Information Management System (LIMS) Change Request '
-about: Template for making internal changes to your database
-title: ''
-labels: ''
-assignees: ''
-
----
-
 ### General Info
 
 - LIMS role for which changes are requested:  
