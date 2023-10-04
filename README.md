@@ -1,2 +1,2 @@
 # Metadata-Issue-Tracking-Template
-Template to help with metadata curation 
+Template to help with metadata curation // issue tracking
