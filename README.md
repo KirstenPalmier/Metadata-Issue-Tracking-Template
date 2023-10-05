@@ -6,5 +6,5 @@ Once the issue is resolved, close the issue. Github will keep track of all issue
 
 For information on how to create your own templates see [here](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository).
 
-<center>![image](https://github.com/KirstenPalmier/Metadata-Issue-Tracking-Template/assets/60520877/d6da0ade-53b9-4664-b17c-e341aec98635) </center>
+![MetaData Love Note](https://github.com/KirstenPalmier/Metadata-Issue-Tracking-Template/assets/60520877/d6da0ade-53b9-4664-b17c-e341aec98635) 
 
