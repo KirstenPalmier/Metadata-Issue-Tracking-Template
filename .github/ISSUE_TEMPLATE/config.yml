@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Data Update request
+    url: https://github.com/KirstenPalmier/Metadata-Issue-Tracking-Template/blob/main/.github/ISSUE_TEMPLATE/data-update-request.md
+    about: Data update template to help with curation and management
+  - name: Lab information management system--lims--change request
+    url: https://github.com/KirstenPalmier/Metadata-Issue-Tracking-Template/blob/main/.github/ISSUE_TEMPLATE/lab-information-management-system--lims--change-request-.md
+    about: Internal database update template to help with curation and management
